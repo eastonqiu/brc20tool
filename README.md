@@ -4,6 +4,8 @@
 ## Based on `go-ord-tx` development
 
 
+### 目前只支持了bc1p地址, 需要导出WIF格式私钥使用(L开头)
+
 ## usage: 
 
 ### 1. install GOLANG
