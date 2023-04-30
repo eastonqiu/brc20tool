@@ -10,9 +10,9 @@
 
 ## usage: 
 
-### 1. install GOLANG
+1. 安装go语言环境
 
-### 2. `GOPROXY=https://goproxy.cn go run github.com/minchenzz/brc20tool@latest`
+2. cmd运行 `GOPROXY=https://goproxy.cn go run github.com/minchenzz/brc20tool@latest`
 
 
 ![](./ord.gif)
